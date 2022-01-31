@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sahilaggarwal2002
-- 👀 I’m interested in ...networking and coding
-- 🌱 I’m currently learning ...machine learning and python
-- 💞️ I’m looking to collaborate on ...machine learning but I am  a beginner
+- 👀 I’m interested in machine learning,networking and coding
+- 🌱 I’m currently learning machine learning and python
+- 💞️ I’m looking to collaborate on machine learning 
 - 📫 How to reach me ...send me an email on aggarwal.sahil804@gmail.com or check my linkedin
 
 <!---
